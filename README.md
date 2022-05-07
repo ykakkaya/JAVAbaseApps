@@ -3,7 +3,7 @@ temel desktop uygulamaları
 
 *****GenericClass*****
 
-Sınıf içerisindeki dizinin varsayılan boyutu 10 ve dizinin eleman sayısı ihtiyaç duydukça 2 katı şeklinde artmalı.
+Sınıf içerisindeki dizinin varsayılan boyutu 10 ve dizinin eleman sayısı ihtiyaç duydukça 2 katı şeklinde artmalı.<br>
 MyList() : Boş contructor kullanılırsa dizinin başlangıç boyutu 10 olmalıdır.
 MyList(int capacity) : Dizinin başlangıç değeri capacity parametresinden alınmalıdır.
 size() : dizideki eleman sayısını verir.
