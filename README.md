@@ -1,5 +1,6 @@
 # JAVAbaseApps
 temel desktop uygulamaları
+
 *****GenericClass*****
 
 Sınıf içerisindeki dizinin varsayılan boyutu 10 ve dizinin eleman sayısı ihtiyaç duydukça 2 katı şeklinde artmalı.
