@@ -1,5 +1,9 @@
 # JAVAbaseApps
 temel desktop uygulamaları
+*****Kitap Sıralayıcı*****
+
+Set tipinden bir veri yapısı kullanın ve kitapları sayfa sayısına göre sıralamasını sağlayınız.
+
 
 *****GenericClass*****
 
